@@ -130,6 +130,3 @@
 [submodule "opsworks_kibana"]
 	path = opsworks_kibana
 	url = https://github.com/methodmill/opsworks-kibana
-[submodule "libarchive"]
-	path = libarchive
-	url = https://github.com/reset/libarchive-cookbook
