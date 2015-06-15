@@ -127,3 +127,6 @@
 [submodule "chef-spark-jobserver"]
 	path = chef-spark-jobserver
 	url = https://github.com/spark-jobserver/chef-spark-jobserver.git
+[submodule "opsworks-kibana"]
+	path = opsworks-kibana
+	url = https://github.com/verdigris-cookbooks/opsworks-kibana.git
