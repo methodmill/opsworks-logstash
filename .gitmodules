@@ -130,3 +130,6 @@
 [submodule "opsworks_kibana"]
 	path = opsworks_kibana
 	url = https://github.com/methodmill/opsworks-kibana
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/redguide/nodejs.git
