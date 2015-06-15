@@ -127,3 +127,6 @@
 [submodule "chef-kibana"]
 	path = chef-kibana
 	url = https://github.com/lusis/chef-kibana.git
+[submodule "apache_spark"]
+	path = apache_spark
+	url = https://github.com/clearstorydata-cookbooks/apache_spark.git
