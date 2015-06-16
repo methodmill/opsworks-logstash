@@ -4,42 +4,18 @@
 [submodule "logstash"]
 	path = logstash
 	url = https://github.com/foxycoder/chef-logstash.git
-[submodule "redisio"]
-	path = redisio
-	url = https://github.com/brianbianco/redisio.git
 [submodule "rabbitmq"]
 	path = rabbitmq
 	url = https://github.com/opscode-cookbooks/rabbitmq.git
-[submodule "java"]
-	path = java
-	url = https://github.com/opscode-cookbooks/java.git
 [submodule "apt"]
 	path = apt
 	url = https://github.com/opscode-cookbooks/apt.git
-[submodule "erlang"]
-	path = erlang
-	url = https://github.com/opscode-cookbooks/erlang.git
-[submodule "mysql"]
-	path = mysql
-	url = https://github.com/opscode-cookbooks/mysql.git
-[submodule "nagios"]
-	path = nagios
-	url = https://github.com/opscode-cookbooks/nagios.git
-[submodule "ntp"]
-	path = ntp
-	url = https://github.com/opscode-cookbooks/ntp.git
 [submodule "postgresql"]
 	path = postgresql
 	url = https://github.com/opscode-cookbooks/postgresql.git
 [submodule "runit"]
 	path = runit
 	url = https://github.com/opscode-cookbooks/runit.git
-[submodule "ant"]
-	path = ant
-	url = https://github.com/opscode-cookbooks/ant.git
-[submodule "apache2"]
-	path = apache2
-	url = https://github.com/opscode-cookbooks/apache2.git
 [submodule "ark"]
 	path = ark
 	url = https://github.com/opscode-cookbooks/ark.git
@@ -55,60 +31,27 @@
 [submodule "chef_handler"]
 	path = chef_handler
 	url = https://github.com/opscode-cookbooks/chef_handler.git
-[submodule "database"]
-	path = database
-	url = https://github.com/opscode-cookbooks/database.git
-[submodule "dmg"]
-	path = dmg
-	url = https://github.com/opscode-cookbooks/dmg.git
-[submodule "git"]
-	path = git
-	url = https://github.com/opscode-cookbooks/git.git
 [submodule "logrotate"]
 	path = logrotate
 	url = https://github.com/opscode-cookbooks/logrotate.git
-[submodule "memcached"]
-	path = memcached
-	url = https://github.com/opscode-cookbooks/memcached.git
 [submodule "ohai"]
 	path = ohai
 	url = https://github.com/opscode-cookbooks/ohai.git
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/opscode-cookbooks/openssl.git
-[submodule "perl"]
-	path = perl
-	url = https://github.com/opscode-cookbooks/perl.git
-[submodule "php"]
-	path = php
-	url = https://github.com/opscode-cookbooks/php.git
-[submodule "postfix"]
-	path = postfix
-	url = https://github.com/opscode-cookbooks/postfix.git
 [submodule "python"]
 	path = python
 	url = https://github.com/opscode-cookbooks/python.git
-[submodule "vim"]
-	path = vim
-	url = https://github.com/opscode-cookbooks/vim.git
-[submodule "windows"]
-	path = windows
-	url = https://github.com/opscode-cookbooks/windows.git
 [submodule "xfs"]
 	path = xfs
 	url = https://github.com/opscode-cookbooks/xfs.git
-[submodule "xml"]
-	path = xml
-	url = https://github.com/opscode-cookbooks/xml.git
 [submodule "yum"]
 	path = yum
 	url = https://github.com/opscode-cookbooks/yum.git
 [submodule "rsyslog"]
 	path = rsyslog
 	url = https://github.com/opscode-cookbooks/rsyslog.git
-[submodule "hostsfile"]
-	path = hostsfile
-	url = https://github.com/foxycoder/hostsfile.git
 [submodule "rbenv"]
 	path = rbenv
 	url = https://github.com/ddux/rbenv-cookbook.git
@@ -121,12 +64,6 @@
 [submodule "chef-spark-jobserver"]
 	path = chef-spark-jobserver
 	url = https://github.com/spark-jobserver/chef-spark-jobserver.git
-[submodule "opsworks_kibana"]
-	path = opsworks_kibana
-	url = https://github.com/methodmill/opsworks-kibana
-[submodule "nodejs"]
-	path = nodejs
-	url = https://github.com/redguide/nodejs.git
 [submodule "nginx"]
 	path = nginx
 	url = https://github.com/methodmill/nginx.git

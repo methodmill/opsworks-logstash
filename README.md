@@ -1,3 +1,53 @@
+```
+git submodule deinit redisio
+git submodule deinit vim
+git submodule deinit windows
+git submodule deinit perl
+git submodule deinit hostsfile
+git submodule deinit dmg
+git submodule deinit mysql
+git submodule deinit ant
+
+git rm redisio
+git rm vim
+git rm windows
+git rm perl
+git rm hostsfile
+git rm dmg
+git rm mysql
+git rm ant
+
+
+git submodule rm redisio
+git rm redisio
+git rm vim
+git rm windows
+git rm perl
+git rm hostsfile
+git rm dmg
+git rm mysql
+git rm ant
+git submodule deinit postfix
+git rm postfix
+git submodule deinit php
+git rm php
+git rm nagios
+git submodule deinit nagios
+git submodule deinit xfs
+git submodule rm memcached
+git rm memcached
+git rm apache2
+git rm java
+git rm -f java
+git rm xml
+git rm ntp
+cd database
+git rm database
+git rm build-essential
+git rm erlang
+```
+
+
 # A complete Logstash stack on [AWS OpsWorks](http://aws.amazon.com/opsworks/)
 
 __UPDATE__: I wrote a [blog post](http://devblog.springest.com/complete-logstash-stack-on-aws-opsworks-in-15-minutes/) that will help you set this up.
