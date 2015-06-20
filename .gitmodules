@@ -70,6 +70,3 @@
 [submodule "opsworks_kibana"]
 	path = opsworks_kibana
 	url = https://github.com/methodmill/opsworks-kibana.git
-[submodule "kibana"]
-	path = kibana_lwrp
-	url = https://github.com/lusis/chef-kibana.git
